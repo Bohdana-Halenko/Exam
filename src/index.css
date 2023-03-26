@@ -17,7 +17,7 @@ h1{
   font-size: 44px;
   text-align: center;
 }
-.button{
+/* .button{
   background-color: orange;
   color: #fff;
   padding-top: 8px;
@@ -32,4 +32,4 @@ h1{
 }
 .button:hover{
   background-color: rgb(255, 132, 0);
-}
+} */
